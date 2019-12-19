@@ -26,9 +26,6 @@ feizulf@gmail.com
 
 The project was deployed to github for proper fuction
 
-## SUPPORT
-
-This is a personal work no individual was helping
 
 ## BUGS
 
