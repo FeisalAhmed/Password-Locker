@@ -33,7 +33,7 @@ If any bug is found dont hesitate to give report
 
 ## DEVELOPMENT SERVER
 
-terminal to run the project.
+terminal to run the project inorder to ask question.
 
 ## LINCECE
 
