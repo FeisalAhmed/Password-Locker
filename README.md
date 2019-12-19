@@ -1,4 +1,6 @@
+## PROJECT NAME
 
+ password-locker
 
 ## AUTHOR
 
