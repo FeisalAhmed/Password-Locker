@@ -2,9 +2,7 @@
 
  password-locker
 
-## AUTHOR
 
-feisal ahmed
 
 ## DESCRIPTION
 
