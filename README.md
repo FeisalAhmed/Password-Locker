@@ -30,7 +30,9 @@ The project was deployed to github for proper fuction
 
 This is a personal work no individual was helping
 
+## BUGS
 
+If any bug is found dont hesitate to give report
 
 ## DEVELOPMENT SERVER
 
