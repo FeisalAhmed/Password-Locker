@@ -38,7 +38,7 @@ If any bug is found dont hesitate to give report
 
 terminal to run the project.
 
-## LINCES
+## LINCECE
 
 lincece $ MIT
 Copyright (c) 2019 Feisal Ahmed
