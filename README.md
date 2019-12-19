@@ -34,7 +34,9 @@ This is a personal work no individual was helping
 
 If any bug is found dont hesitate to give report
 
+## DEVELOPMENT SERVER
 
+terminal to run the project.
 
 ## LINCES
 
