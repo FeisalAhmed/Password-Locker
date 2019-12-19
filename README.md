@@ -14,9 +14,6 @@ this app is design for unlocking password
 
 PHYTHON
 
-## BDD
-
-this project contains some password that are unlocked
 
 ## CONTACT
 
